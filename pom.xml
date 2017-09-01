@@ -1,0 +1,23 @@
+<!--
+   Taitl Minimal Opensource Project is a starting point to new Taitl open source maven projects.
+   See Readme.txt for details. 
+
+   Copyright (c) Taitl Design, LLC.  
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+   <parent>
+      <groupId>com.taitl</groupId>
+      <artifactId>taitl-opensource-parent</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+   </parent>
+   <!-- Change to your project name:  -->
+   <artifactId>taitl-minimal-opensource-project</artifactId>
+   <version>${taitl-release-version}</version>
+   <!-- Change to your project name:  -->
+   <name>taitl-minimal-opensource-project</name>
+   <description>Your project description</description>
+   <dependencies>
+   </dependencies>
+</project>
